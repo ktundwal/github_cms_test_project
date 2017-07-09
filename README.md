@@ -1,1 +1,1 @@
-sun morning 7/9 9:07 am. this is new
+sun morning 7/9 9:07 am. cur time = 10am
