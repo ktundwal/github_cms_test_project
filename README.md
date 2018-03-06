@@ -5,4 +5,4 @@ this is new
 
 current time is 7/9/2017 11:53 AM PST
 
-cur time is 2:36 in 2018 Morning next morning
+cur time is 2:36 in 2018 Morning next morning after refactor
